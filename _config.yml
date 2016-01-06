@@ -1,16 +1,15 @@
-# 博客标题
-name: 我的博客
+# Site settings
+title: test blog
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  个人博客。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  Xcent-xl
+disqus: 
 
-# 博客地址 例如: http://mysite.com
-url:
+# Build settings
+markdown: rdiscount
 
-# 多说评论框账号 留空表示不使用多说
-duoshuo_shortname:
-
-# Google Analystic Tracking ID
-# 谷歌分析的追踪ID ( Tracking ID ) 留空表示不使用
-google_analystics:
-
-# 针对 Project Pages 服务
-# http://jekyllrb.com/docs/github-pages/#project-page-url-structure
-baseurl: /simple-grey-jekyll-theme
+permalink: /:year/:month/:day/:title.html
