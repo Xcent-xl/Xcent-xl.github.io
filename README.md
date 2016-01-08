@@ -5,13 +5,15 @@ http://www.niong.xyz/
 
 博客
 ===
-Blog更新习惯养成中--。
-写些coding中见闻及生活感触
-文笔不佳，随意评论及观赏
+Blog更新习惯养成中--。  
+写些coding中见闻及生活感触  
+随意评论及观赏
 
 其他
 ===
--使用Jekyll模板，已被糟乱更改。来源[San's world](http://hueidou.github.io/)。
+- 使用Jekyll模板
+- 模板被胡乱更改
+- 套用请仔细修改相关变量
 - jekyll初期使用者
 - 功能逐步建设中
 
