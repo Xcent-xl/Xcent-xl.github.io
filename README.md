@@ -6,7 +6,6 @@ http://www.niong.xyz/
 博客
 ===
 Blog更新习惯养成中--。  
-写些coding中见闻及生活感触  
 随意评论及观赏
 
 其他
