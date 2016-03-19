@@ -46,7 +46,9 @@ tags:
 做爬虫当然是要简洁，直接的获取到所需要的内容  
 采用正则表达式来匹配我们需要的段子  
 用浏览器来审查元素，chrome是叫开发者工具  
-![](file:///images/python-qiushibiake-spider/1.png)
+![](https://raw.githubusercontent.com/Xcent-xl/Xcent-xl.github.io/master/images/python-qiushibiake-spider/1.png)  
+如图
+![](https://raw.githubusercontent.com/Xcent-xl/Xcent-xl.github.io/master/images/python-qiushibiake-spider/2.png)
 可以看到，每一个段子都被`<div class=”article block untagged mb15″ id=”…”>…</div>`包裹着，段子有带图片和不带图片的，在终端里显示图片是不现实的，那么用正则表达式把不带图片的段子匹配出来，这样就能在终端显示一条条的段子了  
 
 	content = response.read().decode('utf-8')
@@ -102,3 +104,4 @@ tags:
 
 运行效果如下  
 
+![](https://raw.githubusercontent.com/Xcent-xl/Xcent-xl.github.io/master/images/python-qiushibiake-spider/3.png)
