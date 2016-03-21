@@ -1,9 +1,9 @@
 # Site settings
-title: Niong's Blog
+title: Neoy's Blog
 email: zhuxiong001@gmail.com
 weibo_username: 3463125050
 description: > # this means to ignore newlines until "baseurl:"
-  废材大二 | 胖子 | 内在无趣
+  废材大二 | 一人多高的胖子 | 内在无趣
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.niong.xyz" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
