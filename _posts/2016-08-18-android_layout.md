@@ -3,7 +3,7 @@ layout: post
 title: android_layout笔记
 tags:
 ---
-#关于android_layout笔记
+
 ##orientation:
 	vertical:垂直布局
 	horizontal:水平布局（默认）   

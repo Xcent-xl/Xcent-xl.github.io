@@ -3,7 +3,7 @@ layout: post
 title: android_消息循环
 tags:
 ---
-#android _Message _Handler _Looper
+#android Message Handler Looper
 android通过Looper，Message，Handler进行消息循环，还有一个在Looepr里面进行维护的消息队列Message Queue，在使用中并不会直接操作。   
 ##Looper  
 通过looper使一个线程变成循环线程，该线程不断循环，有新任务立即执行，没有则等待。   
